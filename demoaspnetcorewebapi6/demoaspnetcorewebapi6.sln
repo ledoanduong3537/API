@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demoaspnetcorewebapi6", "demoaspnetcorewebapi6\demoaspnetcorewebapi6.csproj", "{13D54C11-F0C4-41E9-8BF6-11BFEC818D89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D54C11-F0C4-41E9-8BF6-11BFEC818D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D54C11-F0C4-41E9-8BF6-11BFEC818D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D54C11-F0C4-41E9-8BF6-11BFEC818D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D54C11-F0C4-41E9-8BF6-11BFEC818D89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5679B9A3-34FF-4252-9B52-EA37AE89113A}
+	EndGlobalSection
+EndGlobal
